@@ -1,0 +1,1660 @@
+{
+ "version": "0.1",
+ "note": "Per-adult (lower-carb) portions in grams of raw ingredients. Kids: about 0.6x protein, full grain. Values for POC only.",
+ "dishes": [
+  {
+   "id": "idli_samai",
+   "name": "Samai idli",
+   "ta": "சாமை இட்லி",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "samai": 34,
+    "urad": 16
+   },
+   "allergens": [],
+   "baby": "Unsalted mini idli from the baby bowl, mashed into plain dal",
+   "kid": null,
+   "steps": [
+    "Soak 3 parts millet and 1 part urad separately 4-6 h",
+    "Grind urad fluffy, then millet; mix; set baby bowl aside before salt",
+    "Ferment 8-12 h; steam 10-12 min"
+   ],
+   "tags": [
+    "batter:samai",
+    "idli"
+   ],
+   "chain": null
+  },
+  {
+   "id": "dosa_samai",
+   "name": "Samai dosa",
+   "ta": "சாமை தோசை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "samai": 28,
+    "urad": 12,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Soft unsalted dosa strips",
+   "kid": null,
+   "steps": [
+    "Use the 2nd-day millet batter at room temperature; thin with a little water",
+    "Spread thin on a hot tawa, ½ tsp oil around the edge, cook one side until crisp"
+   ],
+   "tags": [
+    "batter:samai",
+    "dosa"
+   ],
+   "chain": null
+  },
+  {
+   "id": "uthappam_samai",
+   "name": "Samai vegetable uthappam",
+   "ta": "சாமை காய்கறி ஊத்தப்பம்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "samai": 35,
+    "urad": 15,
+    "veg": 50,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Soft unsalted uthappam pieces without onion",
+   "kid": null,
+   "steps": [
+    "Use the 3rd-day (slightly sour) batter; pour a thick 1 cm round",
+    "Top with grated carrot, onion and coriander, cover and cook both sides on medium"
+   ],
+   "tags": [
+    "batter:samai",
+    "uthappam"
+   ],
+   "chain": null
+  },
+  {
+   "id": "idli_kambu",
+   "name": "Kambu idli",
+   "ta": "கம்பு இட்லி",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kambu": 34,
+    "urad": 16
+   },
+   "allergens": [],
+   "baby": "Unsalted mini idli from the baby bowl, mashed into plain dal",
+   "kid": null,
+   "steps": [
+    "Soak 3 parts millet and 1 part urad separately 4-6 h",
+    "Grind urad fluffy, then millet; mix; set baby bowl aside before salt",
+    "Ferment 8-12 h; steam 10-12 min"
+   ],
+   "tags": [
+    "batter:kambu",
+    "idli"
+   ],
+   "chain": null
+  },
+  {
+   "id": "dosa_kambu",
+   "name": "Kambu dosa",
+   "ta": "கம்பு தோசை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kambu": 28,
+    "urad": 12,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Soft unsalted dosa strips",
+   "kid": null,
+   "steps": [
+    "Use the 2nd-day millet batter at room temperature; thin with a little water",
+    "Spread thin on a hot tawa, ½ tsp oil around the edge, cook one side until crisp"
+   ],
+   "tags": [
+    "batter:kambu",
+    "dosa"
+   ],
+   "chain": null
+  },
+  {
+   "id": "uthappam_kambu",
+   "name": "Kambu vegetable uthappam",
+   "ta": "கம்பு காய்கறி ஊத்தப்பம்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kambu": 35,
+    "urad": 15,
+    "veg": 50,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Soft unsalted uthappam pieces without onion",
+   "kid": null,
+   "steps": [
+    "Use the 3rd-day (slightly sour) batter; pour a thick 1 cm round",
+    "Top with grated carrot, onion and coriander, cover and cook both sides on medium"
+   ],
+   "tags": [
+    "batter:kambu",
+    "uthappam"
+   ],
+   "chain": null
+  },
+  {
+   "id": "idli_varagu",
+   "name": "Varagu idli",
+   "ta": "வரகு இட்லி",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "varagu": 34,
+    "urad": 16
+   },
+   "allergens": [],
+   "baby": "Unsalted mini idli from the baby bowl, mashed into plain dal",
+   "kid": null,
+   "steps": [
+    "Soak 3 parts millet and 1 part urad separately 4-6 h",
+    "Grind urad fluffy, then millet; mix; set baby bowl aside before salt",
+    "Ferment 8-12 h; steam 10-12 min"
+   ],
+   "tags": [
+    "batter:varagu",
+    "idli"
+   ],
+   "chain": null
+  },
+  {
+   "id": "dosa_varagu",
+   "name": "Varagu dosa",
+   "ta": "வரகு தோசை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "varagu": 28,
+    "urad": 12,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Soft unsalted dosa strips",
+   "kid": null,
+   "steps": [
+    "Use the 2nd-day millet batter at room temperature; thin with a little water",
+    "Spread thin on a hot tawa, ½ tsp oil around the edge, cook one side until crisp"
+   ],
+   "tags": [
+    "batter:varagu",
+    "dosa"
+   ],
+   "chain": null
+  },
+  {
+   "id": "uthappam_varagu",
+   "name": "Varagu vegetable uthappam",
+   "ta": "வரகு காய்கறி ஊத்தப்பம்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "varagu": 35,
+    "urad": 15,
+    "veg": 50,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Soft unsalted uthappam pieces without onion",
+   "kid": null,
+   "steps": [
+    "Use the 3rd-day (slightly sour) batter; pour a thick 1 cm round",
+    "Top with grated carrot, onion and coriander, cover and cook both sides on medium"
+   ],
+   "tags": [
+    "batter:varagu",
+    "uthappam"
+   ],
+   "chain": null
+  },
+  {
+   "id": "idli_kuthiraivali",
+   "name": "Kuthiraivali idli",
+   "ta": "குதிரைவாலி இட்லி",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kuthiraivali": 34,
+    "urad": 16
+   },
+   "allergens": [],
+   "baby": "Unsalted mini idli from the baby bowl, mashed into plain dal",
+   "kid": null,
+   "steps": [
+    "Soak 3 parts millet and 1 part urad separately 4-6 h",
+    "Grind urad fluffy, then millet; mix; set baby bowl aside before salt",
+    "Ferment 8-12 h; steam 10-12 min"
+   ],
+   "tags": [
+    "batter:kuthiraivali",
+    "idli"
+   ],
+   "chain": null
+  },
+  {
+   "id": "dosa_kuthiraivali",
+   "name": "Kuthiraivali dosa",
+   "ta": "குதிரைவாலி தோசை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kuthiraivali": 28,
+    "urad": 12,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Soft unsalted dosa strips",
+   "kid": null,
+   "steps": [
+    "Use the 2nd-day millet batter at room temperature; thin with a little water",
+    "Spread thin on a hot tawa, ½ tsp oil around the edge, cook one side until crisp"
+   ],
+   "tags": [
+    "batter:kuthiraivali",
+    "dosa"
+   ],
+   "chain": null
+  },
+  {
+   "id": "uthappam_kuthiraivali",
+   "name": "Kuthiraivali vegetable uthappam",
+   "ta": "குதிரைவாலி காய்கறி ஊத்தப்பம்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "kuthiraivali": 35,
+    "urad": 15,
+    "veg": 50,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Soft unsalted uthappam pieces without onion",
+   "kid": null,
+   "steps": [
+    "Use the 3rd-day (slightly sour) batter; pour a thick 1 cm round",
+    "Top with grated carrot, onion and coriander, cover and cook both sides on medium"
+   ],
+   "tags": [
+    "batter:kuthiraivali",
+    "uthappam"
+   ],
+   "chain": null
+  },
+  {
+   "id": "adai",
+   "name": "Thinai adai",
+   "ta": "தினை அடை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "thinai": 30,
+    "toor": 12,
+    "chanadal": 12,
+    "urad": 6,
+    "oil": 6
+   },
+   "allergens": [],
+   "baby": "Too coarse; give sprouted ragi porridge instead",
+   "kid": null,
+   "steps": [
+    "Soak thinai, toor, chana and urad 4 h",
+    "Grind coarse with chilli and ginger; no fermentation",
+    "Cook thick on tawa with ½ tsp oil"
+   ],
+   "tags": [
+    "batter:adai"
+   ],
+   "chain": null
+  },
+  {
+   "id": "paniyaram",
+   "name": "Adai kuzhi paniyaram",
+   "ta": "அடை குழிப்பணியாரம்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "thinai": 30,
+    "toor": 12,
+    "chanadal": 12,
+    "urad": 6,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Give mini idli with curd instead",
+   "kid": null,
+   "steps": [
+    "Use the adai batter; stir in grated carrot and curry leaves",
+    "Cook in a greased paniyaram pan, turning once, until golden on both sides"
+   ],
+   "tags": [
+    "batter:adai"
+   ],
+   "chain": null
+  },
+  {
+   "id": "pesarattu",
+   "name": "Pesarattu",
+   "ta": "பெசரட்டு",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "moongwhole": 55,
+    "rice": 10,
+    "onion": 20,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Soft unsalted pesarattu pieces made before adding onion and chilli",
+   "kid": null,
+   "steps": [
+    "Soak whole moong and 2 tbsp rice overnight",
+    "Grind with ginger, chilli, cumin; no fermentation",
+    "Spread thin, top with onion"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "ragi_dosa",
+   "name": "Instant ragi dosa",
+   "ta": "உடனடி ராகி தோசை",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "ragi": 30,
+    "rice": 8,
+    "curd": 20,
+    "oil": 3
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Soft unsalted ragi dosa",
+   "kid": null,
+   "steps": [
+    "Whisk ragi flour, rice flour, curd, salt and chopped onion into a thin batter; rest 15 min",
+    "Pour from the edge inwards on a hot tawa like rava dosa; cook until crisp"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "mg_toast",
+   "name": "Multigrain seed toast",
+   "ta": "பல தானிய டோஸ்ட்",
+   "role": "tiffin",
+   "protein": "veg",
+   "ingredients": {
+    "bread": 52
+   },
+   "allergens": [
+    "wheat",
+    "sesame"
+   ],
+   "baby": "Crust-off toast fingers (seeds ground into the loaf)",
+   "kid": null,
+   "steps": [
+    "Loaf (16 slices): 325 g atta, 50 g oats, 50 g ragi, 25 g jowar, 50 g roasted-gram flour, 15 g each ground flax and sesame, 25 g ground pumpkin seed, 7 g yeast, 6 g salt, 30 ml oil, about 330 ml warm water",
+    "Knead 10 min, rise 1 h, shape into a 9x5 inch tin, rise 45 min, bake 35 min at 200 °C; cool fully before slicing",
+    "Toast 1 slice per adult; freeze slices for the week"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sambar",
+   "name": "Vegetable sambar",
+   "ta": "காய்கறி சாம்பார்",
+   "role": "side",
+   "protein": "veg",
+   "ingredients": {
+    "toor": 30,
+    "veg": 120,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Plain toor dal and soft vegetables lifted before tamarind and tempering",
+   "kid": null,
+   "steps": [
+    "Cook toor dal with turmeric, 4-5 whistles",
+    "Simmer vegetables in tamarind water with sambar powder 10 min",
+    "Add dal and salt, boil 5 min, temper"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "peanut_chutney",
+   "name": "Peanut chutney",
+   "ta": "வேர்க்கடலை சட்னி",
+   "role": "side",
+   "protein": "veg",
+   "ingredients": {
+    "peanut": 12,
+    "coconut": 5,
+    "oil": 1
+   },
+   "allergens": [
+    "peanut"
+   ],
+   "baby": null,
+   "kid": null,
+   "steps": [
+    "Dry-roast peanuts, peel; grind with coconut, a small piece of tamarind, 1 dry chilli and salt",
+    "Temper with mustard and curry leaves"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "pottukadalai_chutney",
+   "name": "Roasted-gram chutney",
+   "ta": "பொட்டுக்கடலை சட்னி",
+   "role": "side",
+   "protein": "veg",
+   "ingredients": {
+    "roastedgram": 12,
+    "coconut": 10
+   },
+   "allergens": [],
+   "baby": null,
+   "kid": null,
+   "steps": [
+    "Grind roasted gram, coconut, a small piece of ginger, 1 green chilli and salt with water",
+    "Temper with mustard and curry leaves"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "onion_chutney",
+   "name": "Onion-tomato chutney",
+   "ta": "வெங்காய-தக்காளி சட்னி",
+   "role": "side",
+   "protein": "veg",
+   "ingredients": {
+    "onion": 40,
+    "tomato": 20,
+    "urad": 3,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": null,
+   "kid": null,
+   "steps": [
+    "Saute onion, tomato and urad dal in oil until soft; cool",
+    "Grind with a dry chilli and salt; temper"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "boiled_eggs",
+   "name": "2 boiled eggs",
+   "ta": "2 அவித்த முட்டை",
+   "role": "bprotein",
+   "protein": "egg",
+   "ingredients": {
+    "egg": 100
+   },
+   "allergens": [
+    "egg"
+   ],
+   "baby": "Hard-boiled yolk and white, mashed",
+   "kid": "1 egg",
+   "steps": [
+    "Boil 10 min, cool in water, peel; sprinkle pepper and salt"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "egg_podimas",
+   "name": "Egg podimas (2 eggs)",
+   "ta": "முட்டைப் பொடிமாஸ்",
+   "role": "bprotein",
+   "protein": "egg",
+   "ingredients": {
+    "egg": 100,
+    "onion": 15,
+    "oil": 3
+   },
+   "allergens": [
+    "egg"
+   ],
+   "baby": "Well-cooked scrambled egg, no salt",
+   "kid": "1 egg",
+   "steps": [
+    "Saute onion, green chilli and curry leaves in 1 tsp oil",
+    "Add beaten eggs with turmeric and salt; scramble until just set; finish with pepper and coriander"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "veg_omelette",
+   "name": "Vegetable omelette (2 eggs)",
+   "ta": "காய் ஆம்லெட்",
+   "role": "bprotein",
+   "protein": "egg",
+   "ingredients": {
+    "egg": 100,
+    "onion": 20,
+    "tomato": 15,
+    "greens": 15,
+    "oil": 3
+   },
+   "allergens": [
+    "egg"
+   ],
+   "baby": "Well-cooked plain egg strips",
+   "kid": "1 egg",
+   "steps": [
+    "Beat eggs with chopped onion, tomato, spinach and salt",
+    "Cook in a non-stick pan with a few drops of oil, fold and serve"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "paneer_tawa",
+   "name": "Tawa paneer cubes (50 g)",
+   "ta": "தவா பனீர்",
+   "role": "bprotein",
+   "protein": "veg",
+   "ingredients": {
+    "paneer": 50,
+    "oil": 2
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Crumbled soft paneer",
+   "kid": "25 g",
+   "steps": [
+    "Cut paneer into fingers, rub with turmeric, pepper and salt",
+    "Sear on a hot tawa with ½ tsp oil, 1 minute a side"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "curd_cup",
+   "name": "1 cup curd",
+   "ta": "1 கப் தயிர்",
+   "role": "bprotein",
+   "protein": "veg",
+   "ingredients": {
+    "curd": 150
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Plain curd",
+   "kid": "½ cup",
+   "steps": [
+    "1 cup home-set curd"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "grain_redrice",
+   "name": "Red rice (mappillai samba) (1 small katori)",
+   "ta": "மாப்பிள்ளை சம்பா சாதம்",
+   "role": "grain",
+   "protein": "veg",
+   "ingredients": {
+    "redrice": 40
+   },
+   "allergens": [],
+   "baby": "Soft overcooked rice, mashed",
+   "kid": "1 full katori",
+   "steps": [],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "grain_brownrice",
+   "name": "Brown rice (1 small katori)",
+   "ta": "பழுப்பு அரிசி சாதம்",
+   "role": "grain",
+   "protein": "veg",
+   "ingredients": {
+    "brownrice": 40
+   },
+   "allergens": [],
+   "baby": "Soft overcooked rice, mashed",
+   "kid": "1 full katori",
+   "steps": [],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "grain_rice",
+   "name": "Ponni rice (1 small katori)",
+   "ta": "பொன்னி சாதம்",
+   "role": "grain",
+   "protein": "veg",
+   "ingredients": {
+    "rice": 40
+   },
+   "allergens": [],
+   "baby": "Soft overcooked rice, mashed",
+   "kid": "1 full katori",
+   "steps": [],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "grain_samai",
+   "name": "Samai rice (1 small katori)",
+   "ta": "சாமை சாதம்",
+   "role": "grain",
+   "protein": "veg",
+   "ingredients": {
+    "samai": 40
+   },
+   "allergens": [],
+   "baby": "Soft overcooked rice, mashed",
+   "kid": "1 full katori",
+   "steps": [],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "chicken_kuzhambu",
+   "name": "Chicken kuzhambu",
+   "ta": "கோழிக் குழம்பு",
+   "role": "main",
+   "protein": "chicken",
+   "ingredients": {
+    "chicken": 130,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Chicken boiled separately with turmeric, shredded fine",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Marinate chicken in curd, turmeric and salt for 20 min; set aside the baby's pieces to boil plain",
+    "Saute onion, tomato, ginger-garlic in oil; add chicken, 2 tbsp kuzhambu powder and ground coconut-poppy paste; cook 20 min",
+    "Set aside 1 piece per adult before adding the gravy, for the dinner pepper fry"
+   ],
+   "tags": [],
+   "chain": "pepper_chicken"
+  },
+  {
+   "id": "mutton_kuzhambu",
+   "name": "Mutton kuzhambu",
+   "ta": "ஆட்டுக்கறிக் குழம்பு",
+   "role": "main",
+   "protein": "mutton",
+   "ingredients": {
+    "mutton": 120,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Mutton pressure-cooked plain, shredded very fine",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook mutton with turmeric, salt and ginger-garlic, 6-7 whistles; lift the baby's portion now",
+    "Make the onion-tomato masala with kuzhambu powder and coconut paste, add the mutton and stock, simmer 15 min",
+    "Set aside the dinner pepper-fry portion before adding the gravy"
+   ],
+   "tags": [],
+   "chain": "mutton_pepper_fry"
+  },
+  {
+   "id": "fish_kuzhambu",
+   "name": "Ayala (mackerel) kuzhambu",
+   "ta": "அயிலை மீன் குழம்பு",
+   "role": "main",
+   "protein": "fish",
+   "ingredients": {
+    "mackerel": 120,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "fish"
+   ],
+   "baby": "One piece steamed with turmeric, every bone removed",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Boil tamarind water with sauteed shallots, tomato, garlic and 2 tbsp fish-curry powder for 10 min",
+    "Slide in the mackerel pieces, simmer 6-8 min without stirring. Steam the baby's piece separately and debone"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "fish_fry",
+   "name": "Pomfret tawa fry",
+   "ta": "வாவல் தவா வறுவல்",
+   "role": "main",
+   "protein": "fish",
+   "ingredients": {
+    "pomfret": 140,
+    "oil": 6
+   },
+   "allergens": [
+    "fish"
+   ],
+   "baby": "Piece steamed before frying, flaked, bones removed",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Marinate pomfret in chilli powder, turmeric, lemon and salt 20 min (steam the baby's piece before marinating)",
+    "Shallow-fry on a tawa with 1 tsp oil, 4 minutes a side"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sardine_kuzhambu",
+   "name": "Mathi (sardine) kuzhambu",
+   "ta": "மத்தி மீன் குழம்பு",
+   "role": "main",
+   "protein": "fish",
+   "ingredients": {
+    "sardine": 100,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "fish"
+   ],
+   "baby": "Plain dal rice mash instead",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Clean sardines; boil tamarind gravy with shallots, garlic and fish-curry powder",
+    "Add sardines, simmer 8 min. Adults only (small bones)"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "prawn_thokku",
+   "name": "Prawn thokku",
+   "ta": "இறால் தொக்கு",
+   "role": "main",
+   "protein": "prawn",
+   "ingredients": {
+    "prawn": 110,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "shellfish"
+   ],
+   "baby": "Plain dal rice mash instead",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Saute onion and tomato in oil until thick; add chilli, coriander powder and pepper",
+    "Add cleaned prawns and cook 5-6 min until curled. Adults and older children only"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "egg_kuzhambu",
+   "name": "Egg kuzhambu (2 eggs)",
+   "ta": "முட்டைக் குழம்பு",
+   "role": "main",
+   "protein": "egg",
+   "ingredients": {
+    "egg": 100,
+    "onion": 30,
+    "tomato": 40,
+    "coconut": 10,
+    "oil": 5
+   },
+   "allergens": [
+    "egg"
+   ],
+   "baby": "Hard-boiled egg mashed, lifted before gravy",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Boil eggs, peel and slit",
+    "Simmer in onion-tomato-tamarind gravy with kuzhambu powder and coconut paste for 8 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "paneer_kurma",
+   "name": "Paneer-peas kurma",
+   "ta": "பனீர்-பட்டாணி குருமா",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "paneer": 80,
+    "peas": 40,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Crumbled paneer and mashed peas before masala",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Blend onion, tomato, cashew-free coconut and fennel into a paste",
+    "Cook the paste with peas 8 min, add paneer cubes and garam masala, simmer 3 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "soya_kuzhambu",
+   "name": "Soya chunk kuzhambu",
+   "ta": "சோயா உருண்டை குழம்பு",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "soya": 30,
+    "peas": 30,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 4
+   },
+   "allergens": [
+    "soy"
+   ],
+   "baby": "Plain moong dal rice instead",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Soak soya chunks in hot water 10 min and squeeze",
+    "Simmer with peas in onion-tomato gravy and kuzhambu powder for 10 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "rajma_kuzhambu",
+   "name": "Rajma kuzhambu",
+   "ta": "ராஜ்மா குழம்பு",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "rajma": 45,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Rajma lifted before spices, mashed smooth (must be fully cooked)",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook the soaked pulse until very soft (rajma 6-8 whistles; karamani or kollu 4-5)",
+    "Saute onion and tomato in 1 tsp oil with ginger-garlic, add 1 tbsp kuzhambu powder and tamarind water, boil 5 min",
+    "Add the cooked pulse, simmer 10 min. Keep 1 katori of plain cooked pulse aside for the evening sundal"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "kadala_curry",
+   "name": "Kadala curry",
+   "ta": "கடலைக் கறி",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "blackchana": 50,
+    "coconut": 15,
+    "onion": 30,
+    "tomato": 20,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Chana mashed smooth, skins removed",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook soaked black chana 6 whistles",
+    "Simmer with roasted-coconut-coriander paste, onion and tomato for 10 min; temper with curry leaves"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "karamani_kuzhambu",
+   "name": "Karamani kuzhambu",
+   "ta": "காராமணி குழம்பு",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "karamani": 45,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Karamani mashed smooth before spices",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook the soaked pulse until very soft (rajma 6-8 whistles; karamani or kollu 4-5)",
+    "Saute onion and tomato in 1 tsp oil with ginger-garlic, add 1 tbsp kuzhambu powder and tamarind water, boil 5 min",
+    "Add the cooked pulse, simmer 10 min. Keep 1 katori of plain cooked pulse aside for the evening sundal"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "kollu_kuzhambu",
+   "name": "Kollu (horse gram) kuzhambu",
+   "ta": "கொள்ளு குழம்பு",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "kollu": 40,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "A little kollu mashed smooth before spices",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook the soaked pulse until very soft (rajma 6-8 whistles; karamani or kollu 4-5)",
+    "Saute onion and tomato in 1 tsp oil with ginger-garlic, add 1 tbsp kuzhambu powder and tamarind water, boil 5 min",
+    "Add the cooked pulse, simmer 10 min. Keep 1 katori of plain cooked pulse aside for the evening sundal"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "keerai_paruppu",
+   "name": "Keerai paruppu (spinach dal)",
+   "ta": "கீரை பருப்பு",
+   "role": "main",
+   "protein": "veg",
+   "ingredients": {
+    "toor": 40,
+    "greens": 80,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Dal and greens before tempering, mashed with rice",
+   "kid": "Half the adult protein, lifted before extra chilli",
+   "steps": [
+    "Pressure-cook toor dal with turmeric, garlic and tomato",
+    "Cook chopped spinach 3 min in the dal; mash. Lift the baby's portion, then add salt and a cumin-garlic tempering"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "beans_carrot_poriyal",
+   "name": "Beans-carrot poriyal (double portion)",
+   "ta": "பீன்ஸ்-கேரட் பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "beans": 100,
+    "carrot": 100,
+    "coconut": 6,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Wash and chop the vegetable small; temper 1 tsp oil with mustard, urad dal and curry leaves",
+    "Add the vegetable with a pinch of turmeric and salt, sprinkle water, cover and cook on low until just soft",
+    "Finish with 1 tbsp grated coconut. Lift the baby's and child's portion before any chilli"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "cabbage_peas_poriyal",
+   "name": "Cabbage-peas poriyal (double portion)",
+   "ta": "கோஸ்-பட்டாணி பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "cabbage": 160,
+    "peas": 40,
+    "coconut": 6,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Wash and chop the vegetable small; temper 1 tsp oil with mustard, urad dal and curry leaves",
+    "Add the vegetable with a pinch of turmeric and salt, sprinkle water, cover and cook on low until just soft",
+    "Finish with 1 tbsp grated coconut. Lift the baby's and child's portion before any chilli"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "beetroot_poriyal",
+   "name": "Beetroot-beans poriyal (double portion)",
+   "ta": "பீட்ரூட்-பீன்ஸ் பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "beetroot": 100,
+    "beans": 100,
+    "coconut": 6,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Wash and chop the vegetable small; temper 1 tsp oil with mustard, urad dal and curry leaves",
+    "Add the vegetable with a pinch of turmeric and salt, sprinkle water, cover and cook on low until just soft",
+    "Finish with 1 tbsp grated coconut. Lift the baby's and child's portion before any chilli"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "okra_poriyal",
+   "name": "Vendakkai poriyal (double portion)",
+   "ta": "வெண்டைக்காய் பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "okra": 180,
+    "coconut": 6,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Dry the okra fully, slice into rounds",
+    "Saute in oil on high, uncovered, 10-12 min with turmeric and salt; finish with coconut"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "cauliflower_poriyal",
+   "name": "Cauliflower poriyal (double portion)",
+   "ta": "காலிஃபிளவர் பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "cauliflower": 180,
+    "coconut": 6,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Wash and chop the vegetable small; temper 1 tsp oil with mustard, urad dal and curry leaves",
+    "Add the vegetable with a pinch of turmeric and salt, sprinkle water, cover and cook on low until just soft",
+    "Finish with 1 tbsp grated coconut. Lift the baby's and child's portion before any chilli"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "keerai_poriyal",
+   "name": "Keerai poriyal (double portion)",
+   "ta": "கீரை பொரியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "greens": 150,
+    "coconut": 6,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Any greens: spinach, arai keerai, siru keerai, mulai keerai or murungai keerai",
+    "Temper mustard, urad and onion; add chopped greens and salt; cook uncovered 4-5 min; finish with coconut"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "snakegourd_kootu",
+   "name": "Pudalangai kootu (double portion)",
+   "ta": "புடலங்காய் கூட்டு",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "veg": 150,
+    "moongdal": 20,
+    "coconut": 10,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Any watery vegetable: snake gourd, bottle gourd, chow-chow or ash gourd",
+    "Cook the vegetable with moong dal and turmeric; add ground coconut-cumin-green chilli; simmer 3 min; temper"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "avial",
+   "name": "Avial (double portion)",
+   "ta": "அவியல்",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "veg": 200,
+    "coconut": 25,
+    "curd": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Cut mixed vegetables (drumstick, carrot, beans, raw banana, yam) into fingers; cook with turmeric and salt",
+    "Stir in ground coconut-cumin-chilli and beaten curd off the heat; finish with coconut oil and curry leaves"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "beans_usili",
+   "name": "Beans paruppu usili (double portion)",
+   "ta": "பீன்ஸ் பருப்பு உசிலி",
+   "role": "veg",
+   "protein": "veg",
+   "ingredients": {
+    "beans": 150,
+    "chanadal": 15,
+    "toor": 10,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Same vegetable steamed separately in the morning cooker, mashed",
+   "kid": null,
+   "steps": [
+    "Soak toor and chana dal 1 h, grind coarse with chilli, steam 10 min, crumble",
+    "Toss with steamed chopped beans in a mustard tempering for 5 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "curd_bowl",
+   "name": "Curd (1 katori)",
+   "ta": "தயிர்",
+   "role": "extra",
+   "protein": "veg",
+   "ingredients": {
+    "curd": 150
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Plain curd",
+   "kid": null,
+   "steps": [
+    "Home-set curd from toned milk, set the night before"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "rasam",
+   "name": "Tomato rasam",
+   "ta": "தக்காளி ரசம்",
+   "role": "extra",
+   "protein": "veg",
+   "ingredients": {
+    "toor": 5,
+    "tomato": 50
+   },
+   "allergens": [],
+   "baby": null,
+   "kid": null,
+   "steps": [
+    "Boil tamarind water with tomato, rasam powder, garlic and a spoon of dal water",
+    "Remove at first froth; temper with ghee, mustard and cumin"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "salad",
+   "name": "Cucumber-carrot-onion salad",
+   "ta": "சாலட்",
+   "role": "extra",
+   "protein": "veg",
+   "ingredients": {
+    "salad": 120
+   },
+   "allergens": [],
+   "baby": "Steamed vegetable fingers instead of raw salad",
+   "kid": null,
+   "steps": [
+    "Cucumber, carrot, onion and tomato with lemon, pepper and a pinch of salt"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sundal_chana",
+   "name": "Black chana sundal (1 katori)",
+   "ta": "கொண்டைக்கடலை சுண்டல்",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "blackchana": 35,
+    "coconut": 8,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Use pulse cooked soft (soak overnight, pressure-cook 4-5 whistles)",
+    "Temper mustard, curry leaves and a dry chilli in 1 tsp oil; toss in the pulse with salt and grated coconut"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sundal_karamani",
+   "name": "Karamani sundal (1 katori)",
+   "ta": "காராமணி சுண்டல்",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "karamani": 35,
+    "coconut": 8,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Use pulse cooked soft (soak overnight, pressure-cook 4-5 whistles)",
+    "Temper mustard, curry leaves and a dry chilli in 1 tsp oil; toss in the pulse with salt and grated coconut"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sundal_kollu",
+   "name": "Kollu sundal (1 katori)",
+   "ta": "கொள்ளு சுண்டல்",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "kollu": 35,
+    "coconut": 8,
+    "oil": 2
+   },
+   "allergens": [],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Use pulse cooked soft (soak overnight, pressure-cook 4-5 whistles)",
+    "Temper mustard, curry leaves and a dry chilli in 1 tsp oil; toss in the pulse with salt and grated coconut"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "sprouts_salad",
+   "name": "Sprouted moong salad (1 katori)",
+   "ta": "முளைப்பயறு சாலட்",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "moongwhole": 40,
+    "salad": 60
+   },
+   "allergens": [],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Soak green moong 8 h, drain, tie in a cloth 12-24 h to sprout",
+    "Toss with cucumber, carrot, onion, lemon and pepper; steam 3 min for children"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "chana_peanuts",
+   "name": "Roasted chana and peanuts (1 katori)",
+   "ta": "பொட்டுக்கடலை, வேர்க்கடலை",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "roastedgram": 20,
+    "peanut": 20
+   },
+   "allergens": [
+    "peanut"
+   ],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Mix roasted gram and roasted peanuts; a pinch of chilli powder for adults"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "boiled_groundnut",
+   "name": "Boiled groundnuts (1 katori)",
+   "ta": "அவித்த வேர்க்கடலை",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "peanut": 40
+   },
+   "allergens": [
+    "peanut"
+   ],
+   "baby": "Whole legumes and nuts are a choking risk; give mashed fruit with curd",
+   "kid": "½ katori",
+   "steps": [
+    "Pressure-cook raw groundnuts in their shells with salt, 3 whistles"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "chapathi",
+   "name": "1 chapathi (only if hungry)",
+   "ta": "சப்பாத்தி",
+   "role": "dgrain",
+   "protein": "veg",
+   "ingredients": {
+    "atta": 30,
+    "oil": 2
+   },
+   "allergens": [
+    "wheat"
+   ],
+   "baby": "Soft chapathi pieces soaked in dal",
+   "kid": "2 chapathi",
+   "steps": [
+    "Atta dough with water and a pinch of salt; rest 20 min",
+    "Roll thin; cook on a hot tawa, brush ½ tsp oil"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "dgrain_none",
+   "name": "No grain (protein and vegetables only)",
+   "ta": "தானியம் இல்லை",
+   "role": "dgrain",
+   "protein": "veg",
+   "ingredients": {},
+   "allergens": [],
+   "baby": null,
+   "kid": "2 chapathi or 1 katori rice",
+   "steps": [],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "pepper_chicken",
+   "name": "Pepper chicken dry (from lunch)",
+   "ta": "மிளகுக் கோழி",
+   "role": "dmain",
+   "protein": "chicken",
+   "ingredients": {
+    "chicken": 110,
+    "onion": 30,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Saute onion and curry leaves in 1 tsp oil; add the reserved lunch chicken",
+    "Add 1 tsp crushed pepper and ½ tsp fennel powder; dry-roast 8 min until coated"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "mutton_pepper_fry",
+   "name": "Mutton pepper fry (from lunch)",
+   "ta": "ஆட்டுக்கறி மிளகு வறுவல்",
+   "role": "dmain",
+   "protein": "mutton",
+   "ingredients": {
+    "mutton": 100,
+    "onion": 30,
+    "oil": 3
+   },
+   "allergens": [],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Fry onion and curry leaves; add the reserved cooked mutton",
+    "Add crushed pepper, fennel and a little garam masala; roast dry 10 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "paneer_bhurji",
+   "name": "Paneer-capsicum bhurji (80 g)",
+   "ta": "பனீர் புர்ஜி",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "paneer": 80,
+    "capsicum": 50,
+    "onion": 40,
+    "tomato": 40,
+    "oil": 4
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Saute onion, capsicum and tomato in 1 tsp oil with turmeric and cumin",
+    "Crumble paneer in, cook 3 min; finish with pepper and coriander"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "egg_bhurji",
+   "name": "Egg bhurji with vegetables (2 eggs)",
+   "ta": "முட்டை புர்ஜி",
+   "role": "dmain",
+   "protein": "egg",
+   "ingredients": {
+    "egg": 100,
+    "veg": 100,
+    "oil": 4
+   },
+   "allergens": [
+    "egg"
+   ],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Saute mixed vegetables 5 min",
+    "Add beaten eggs, scramble with salt and pepper"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "dal_tadka",
+   "name": "Moong dal tadka (1½ katori)",
+   "ta": "பாசிப்பருப்பு தட்கா",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "moongdal": 40,
+    "onion": 20,
+    "tomato": 20,
+    "oil": 4
+   },
+   "allergens": [],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Pressure-cook moong dal with turmeric and tomato",
+    "Temper ghee or oil with cumin, garlic, onion and red chilli; pour over"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "chana_masala",
+   "name": "Chana masala (1½ katori)",
+   "ta": "சன்னா மசாலா",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "whitechana": 45,
+    "onion": 30,
+    "tomato": 30,
+    "oil": 5
+   },
+   "allergens": [],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Pressure-cook soaked white chana 6 whistles",
+    "Simmer in onion-tomato masala with chana masala powder for 10 min"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "soya_mushroom_fry",
+   "name": "Soya-mushroom pepper fry",
+   "ta": "சோயா-காளான் மிளகு வறுவல்",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "soya": 25,
+    "mushroom": 75,
+    "capsicum": 40,
+    "onion": 30,
+    "oil": 5
+   },
+   "allergens": [
+    "soy"
+   ],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Soak and squeeze soya chunks; slice mushrooms",
+    "Stir-fry with onion and capsicum on high with garlic, pepper and salt"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "pongal_dalveg",
+   "name": "Thinai pongal, dal-heavy (1 katori)",
+   "ta": "தினை பொங்கல்",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "thinai": 25,
+    "moongdal": 25,
+    "ghee": 4
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Cook thinai and moong dal SEPARATELY in two cooker containers (1:3 water), with vegetables in the dal",
+    "Temper ghee with pepper, cumin, ginger and curry leaves; adults take 1 small katori thinai + 2 katori dal-veg"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "moong_chilla",
+   "name": "Moong-besan chilla with paneer (2)",
+   "ta": "பாசிப்பருப்பு சில்லா",
+   "role": "dmain",
+   "protein": "veg",
+   "ingredients": {
+    "moongdal": 30,
+    "besan": 20,
+    "paneer": 40,
+    "veg": 60,
+    "oil": 6
+   },
+   "allergens": [
+    "dairy"
+   ],
+   "baby": "Lifted before chilli and salt, mashed; or sprouted ragi porridge with ghee",
+   "kid": "Milder portion with 2 chapathi",
+   "steps": [
+    "Grind soaked moong dal with ginger and chilli; stir in besan and grated vegetables",
+    "Cook like a dosa; fill with crumbled paneer"
+   ],
+   "tags": [],
+   "chain": null
+  },
+  {
+   "id": "soya_sundal",
+   "name": "Soya chunk sundal (½ katori)",
+   "ta": "சோயா சுண்டல்",
+   "role": "snack",
+   "protein": "veg",
+   "ingredients": {
+    "soya": 25,
+    "onion": 20,
+    "coconut": 5,
+    "oil": 2
+   },
+   "allergens": [
+    "soy"
+   ],
+   "baby": "Not for babies; give mashed fruit instead",
+   "kid": "2 tbsp, chopped small",
+   "chain": null,
+   "steps": [
+    "Soak soya chunks in hot water 10 min, squeeze dry, chop",
+    "Temper mustard, curry leaves and onion; add soya, salt, pepper and grated coconut"
+   ],
+   "tags": [
+    "booster"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+id,name,category,kcal,protein_g,fat_g,carb_g,fibre_g
+samai,Little millet (samai),grain,341,8.7,3.5,65.5,7.7
+kambu,Pearl millet (kambu),grain,348,11.0,5.4,61.8,11.5
+varagu,Kodo millet (varagu),grain,331,8.9,2.6,66.2,6.4
+thinai,Foxtail millet (thinai),grain,331,12.3,4.3,60.1,6.7
+kuthiraivali,Barnyard millet (kuthiraivali),grain,307,6.2,2.2,65.5,9.8
+rice,"White rice, raw",grain,356,7.9,0.5,78.2,2.8
+redrice,"Red rice (mappillai samba), raw",grain,356,7.5,1.2,75.0,3.6
+brownrice,"Brown rice, raw",grain,362,7.5,2.7,72.9,3.4
+atta,Whole-wheat flour (atta),grain,321,10.6,1.5,64.2,11.4
+oats,Rolled oats,grain,374,13.6,7.6,60.0,10.1
+ragi,Finger millet flour (ragi),grain,320,7.2,1.9,66.8,11.2
+jowar,Sorghum flour (jowar),grain,334,10.0,1.7,67.7,10.2
+roastedgram,Roasted gram (pottukadalai),pulse,369,22.5,5.2,50.0,15.0
+urad,Black gram dal (urad),pulse,341,23.1,1.7,51.0,11.9
+toor,Pigeon pea dal (toor),pulse,343,21.7,1.6,55.2,9.1
+moongdal,"Moong dal, split",pulse,348,23.9,1.4,52.5,9.4
+moongwhole,Whole green moong,pulse,330,22.5,1.1,47.4,17.0
+chanadal,Bengal gram dal (chana dal),pulse,360,21.5,5.3,46.7,15.1
+blackchana,Black chickpeas (kala chana),pulse,330,18.8,5.1,39.6,25.2
+whitechana,Chickpeas (kabuli),pulse,364,19.3,6.0,46.0,17.0
+rajma,Kidney beans (rajma),pulse,333,19.9,1.8,44.0,16.6
+karamani,Black-eyed peas (karamani),pulse,336,21.3,1.2,48.0,13.0
+kollu,Horse gram (kollu),pulse,330,21.7,0.6,54.0,7.9
+besan,Gram flour (besan),pulse,387,22.4,6.7,50.0,10.8
+soya,Soya chunks,pulse,345,52.0,0.5,20.0,13.0
+egg,"Egg, whole",protein,143,12.6,9.9,0.7,0
+chicken,"Chicken, raw edible",protein,130,20.0,4.0,0,0
+keema,Chicken keema,protein,160,19.0,9.0,0,0
+mackerel,"Indian mackerel (ayala), edible",protein,140,19.0,7.0,0,0
+pomfret,"Pomfret (vavval), edible",protein,110,18.0,4.0,0,0
+sardine,"Oil sardine (mathi), edible",protein,135,20.0,6.0,0,0
+paneer,Paneer,protein,265,18.3,20.8,1.2,0
+curd,Curd (toned milk),dairy,60,3.3,3.0,4.5,0
+hungcurd,Hung curd,dairy,98,7.0,6.0,4.0,0
+milk,"Milk, toned",dairy,58,3.3,3.0,4.7,0
+peanut,Groundnut,nut,567,24.0,40.0,16.0,10.0
+almond,Almond,nut,579,21.2,49.9,9.1,12.5
+walnut,Walnut,nut,654,15.2,65.2,7.0,6.7
+coconut,"Coconut, fresh grated",nut,354,3.3,33.5,6.2,9.0
+sesame,Sesame seed,nut,573,17.7,49.7,11.7,11.8
+flax,Flaxseed,nut,534,18.3,42.2,1.6,27.3
+pumpkinseed,Pumpkin seed,nut,559,30.2,49.0,4.7,6.0
+nutseed,Nut-seed mix,nut,560,22.0,47.0,10.0,12.0
+oil,Cooking oil,fat,900,0,100,0,0
+ghee,Ghee,fat,897,0,99.7,0,0
+butter,Butter,fat,717,0.9,81,0.1,0
+veg,Mixed vegetables,vegetable,35,1.8,0.2,5.5,3.0
+greens,Leafy greens (keerai),vegetable,30,3.0,0.5,2.5,3.0
+salad,Salad vegetables,vegetable,20,0.8,0.1,3.5,1.0
+onion,Onion,vegetable,40,1.1,0.1,7.6,1.7
+tomato,Tomato,vegetable,18,0.9,0.2,2.7,1.2
+cabbage,Cabbage,vegetable,25,1.3,0.1,3.3,2.5
+beans,French beans,vegetable,31,1.8,0.2,4.3,2.7
+carrot,Carrot,vegetable,41,0.9,0.2,6.8,2.8
+peas,Green peas,vegetable,81,5.4,0.4,8.8,5.7
+mushroom,Button mushroom,vegetable,22,3.1,0.3,2.3,1.0
+capsicum,Capsicum,vegetable,20,0.9,0.2,2.9,1.7
+cauliflower,Cauliflower,vegetable,25,1.9,0.3,3.0,2.0
+okra,Okra (vendakkai),vegetable,33,1.9,0.2,4.3,3.2
+corn,Sweet corn,vegetable,86,3.3,1.4,16.7,2.0
+beetroot,Beetroot,vegetable,43,1.6,0.2,7.0,2.8
+sweetpotato,Sweet potato,vegetable,86,1.6,0.1,17.1,3.0
+puffedrice,Puffed rice (pori),grain,380,7.0,0.5,85.0,1.7
+apple,Apple,fruit,52,0.3,0.2,11.4,2.4
+guava,Guava,fruit,68,2.6,1.0,8.9,5.4
+watermelon,Watermelon,fruit,30,0.6,0.2,7.2,0.4
+grapes,Grapes,fruit,69,0.7,0.2,17.2,0.9
+dragonfruit,Dragon fruit,fruit,60,1.2,0.4,10.0,3.0
+pomegranate,Pomegranate arils,fruit,83,1.7,1.2,14.7,4.0
+papaya,Papaya,fruit,43,0.5,0.3,9.1,1.7
+pear,Pear,fruit,57,0.4,0.1,12.1,3.1
+orange,Orange,fruit,47,0.9,0.1,9.4,2.4
+sweetlime,Sweet lime,fruit,43,0.8,0.3,8.0,2.0
+banana,Banana,fruit,89,1.1,0.3,20.2,2.6
+chikoo,Sapota (chikoo),fruit,83,0.4,1.1,14.7,5.3
+coconutwater,Tender coconut water,fruit,19,0.7,0.2,3.7,0
+breastmilk,Breast milk,dairy,70,1.0,4.1,7.0,0
+bread,Multigrain seed bread (home loaf),grain,262.56,8.41,8.07,37.27,7.65
+mutton,"Mutton, raw edible",protein,194,18.5,13.3,0,0
+prawn,"Prawn, raw",protein,85,20.0,0.5,0.2,0

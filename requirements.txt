@@ -1,0 +1,5 @@
+reportlab>=4.0          # PDF export (required)
+anthropic>=0.40         # optional: Claude tool-use agent (set ANTHROPIC_API_KEY)
+fastapi>=0.110          # optional: HTTP API
+uvicorn>=0.29           # optional: run the API
+httpx>=0.27             # optional: FastAPI TestClient
